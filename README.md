@@ -77,7 +77,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![output](/webserver.png)
+![webserver](https://github.com/GURUMUR/ODD2023-WT-Ex-01-Simple-Web-Server/assets/144895197/c2b381e2-3683-4975-b9b8-84feb6f84823)
+
 
 
 ## RESULT:
